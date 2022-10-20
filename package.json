@@ -1,0 +1,9 @@
+{
+  "name": "com.sxer.tool.xmlhelper",
+  "displayName": "XMLHelper",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Editor XML File Tool.",
+  "dependencies": {
+  }
+}
